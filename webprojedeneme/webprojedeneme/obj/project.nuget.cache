@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sx7rIhibN+V3z+hrIr09HH46f9j2o99CpqkNFWFnm+zEo/c7H53PPcaifAXdkKJw9fJSDe7J4Dpqy4xuS6oMOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90553\\source\\repos\\yazlab2 denemeleri\\webprojedenemsi\\webprojedeneme\\webprojedeneme\\webprojedeneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAYrTJy+wANeu4ZEtcP+N7Uusd1avjz1lJoqVT4JDx/MlIx0E8Ky1UGpptw2EklV5DRbyn6IQrRdsaHXfCvT1w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\90553\\source\\repos\\yazlab2 denemeleri\\webprojedenemsi\\webprojedeneme\\WEBBB\\WEBBB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\90553\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NET.ILLink.Tasks' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.NET.ILLink.Tasks'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.DotNet.ILCompiler' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.DotNet.ILCompiler'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.DotNet.ILCompiler"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.DotNet.ILCompiler' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.DotNet.ILCompiler'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.DotNet.ILCompiler"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NET.ILLink.Tasks' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.NET.ILLink.Tasks'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'runtime.win-x64.Microsoft.DotNet.ILCompiler' from remote source 'https://packagesource/FindPackagesById()?id='runtime.win-x64.Microsoft.DotNet.ILCompiler'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'runtime.win-x64.Microsoft.DotNet.ILCompiler' from remote source 'https://packagesource/FindPackagesById()?id='runtime.win-x64.Microsoft.DotNet.ILCompiler'&semVerLevel=2.0.0'.",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler"
+    }
+  ]
+}

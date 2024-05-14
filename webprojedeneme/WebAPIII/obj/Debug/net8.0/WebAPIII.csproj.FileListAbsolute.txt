@@ -1,0 +1,7 @@
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.AssemblyInfo.cs
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\90553\source\repos\yazlab2 denemeleri\webprojedenemsi\webprojedeneme\WebAPIII\obj\Debug\net8.0\WebAPIII.MvcApplicationPartsAssemblyInfo.cache
